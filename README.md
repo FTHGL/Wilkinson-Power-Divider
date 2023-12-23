@@ -12,7 +12,7 @@ Bu proje, RF (Radyo Frekans) uygulamalarında kullanılmak üzere bir Wilkinson 
 
 
 
-```markdown
+
 # Wilkinson Power Divider Design
 
 This project encompasses the design of a Wilkinson Power Divider for use in RF (Radio Frequency) applications. A Wilkinson Power Divider is a microwave circuit that divides an input signal into two equal or specified ratio output signals.
