@@ -1,0 +1,35 @@
+{
+    "parameters": [
+        {
+            "expr": "20",
+            "name": "lx",
+            "value": "20"
+        },
+        {
+            "expr": "15",
+            "name": "l50",
+            "value": "15"
+        },
+        {
+            "expr": "2.917",
+            "name": "w50",
+            "value": "2.917"
+        },
+        {
+            "expr": "0.035",
+            "name": "t",
+            "value": "0.035"
+        },
+        {
+            "expr": "1.503",
+            "name": "w70",
+            "value": "1.503"
+        },
+        {
+            "expr": "1.524",
+            "name": "h",
+            "value": "1.524"
+        }
+    ],
+    "version": 1
+}

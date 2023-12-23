@@ -1,0 +1,19 @@
+=========================================
+== CST Matrix Calculation Priority Log ==
+=========================================
+Priorities are sorted in ascending order beginning with the lowest priority
+ 
+Group | Shape-ID | ShapeName | Material | User-priority | 2D/3D-Geometry | Material-attributes | Shape-attributes | Feature-ID | Schemetype
+1 | 5 | </cst/Boundaries/> Low^X | Copper (annealed) | n/a | no | pec.rho.surface-impedance. | boundary. | n/a | FIT_TD
+1 | 6 | </cst/Boundaries/> Low^Y | Copper (annealed) | n/a | no | pec.rho.surface-impedance. | boundary. | n/a | FIT_TD
+1 | 7 | </cst/Boundaries/> Low^Z | Copper (annealed) | n/a | no | pec.rho.surface-impedance. | boundary. | n/a | FIT_TD
+1 | 8 | </cst/Boundaries/> Up^X | Copper (annealed) | n/a | no | pec.rho.surface-impedance. | boundary. | n/a | FIT_TD
+1 | 9 | </cst/Boundaries/> Up^Y | Copper (annealed) | n/a | no | pec.rho.surface-impedance. | boundary. | n/a | FIT_TD
+1 | 10 | </cst/Boundaries/> Up^Z | Copper (annealed) | n/a | no | pec.rho.surface-impedance. | boundary. | n/a | FIT_TD
+2 | 11 | </cst/Lumped Elements/> discrete_face_port:Folder1:RES^t0 | Copper (annealed) | n/a | no | pec.rho.surface-impedance. | face-element.face-port.lumped-element.sheet. | n/a | FIT_TD
+2 | 12 | </cst/Lumped Elements/> discrete_face_port:Folder1:RES^t1 | Copper (annealed) | n/a | no | pec.rho.surface-impedance. | face-element.face-port.lumped-element.sheet. | n/a | FIT_TD
+3 | 3 | metal:soli2 | FR-4 (lossy) | n/a | yes | dispersive-mue.normal. | solid. | n/a | FIT_TD
+4 | 2 | metal:soli1 | Copper (annealed) | n/a | yes | pec.rho.surface-impedance. | solid. | n/a | FIT_TD
+4 | 4 | metal:soli3 | Copper (annealed) | n/a | yes | pec.rho.surface-impedance. | solid. | n/a | FIT_TD
+5 | 1 | discrete_face_port:Folder1:RES | PEC | n/a | yes | pec. | face-center-gap.face-element.face-port.lumped-element.sheet. | n/a | FIT_TD
+=========================================
